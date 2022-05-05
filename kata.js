@@ -1,5 +1,5 @@
-function kata() {
-    return true;
+function getOrder(input) {
+
 }
 
-module.exports = kata;
+module.exports = getOrder;
